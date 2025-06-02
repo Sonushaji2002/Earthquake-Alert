@@ -27,7 +27,7 @@ This is a web application built with **Streamlit** that predicts the alert level
 ??How to Run
 1. Clone the Repository
 
-git clone https://github.com/your-username/earthquake-alert-prediction.git
+git clone https://github.com/Sonushaji2002/Earthquake-Alert
 cd earthquake-alert-prediction
 
 2. Install the Dependencies
