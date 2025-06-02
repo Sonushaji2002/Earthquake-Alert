@@ -24,33 +24,30 @@ This is a web application built with **Streamlit** that predicts the alert level
 
 ---
 
-##How to Run
+??How to Run
+1. Clone the Repository
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/earthquake-alert-prediction.git
-   cd earthquake-alert-prediction
-Install the dependencies:
+git clone https://github.com/your-username/earthquake-alert-prediction.git
+cd earthquake-alert-prediction
 
-bash
-Copy
-Edit
+2. Install the Dependencies
+3. 
+Make sure you have Python installed, then run:
+
 pip install -r requirements.txt
-requirements.txt should contain:
 
-nginx
-Copy
-Edit
+requirements.txt should include:
+
 streamlit
 xgboost
 scikit-learn
-Start the app:
 
-bash
-Copy
-Edit
+3. Start the Streamlit App
+4. 
 streamlit run streamlit.py
+
 Inputs Required
+
 Magnitude
 
 Depth
